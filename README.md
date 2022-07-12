@@ -11,7 +11,7 @@
 - **Mã môn học:** CS231
 - **Mã lớp:** CS112.M21.KHCL
 - **Năm học:** HK2 (2021 - 2022)
-- **Giảng viên:** Ths. Mai Tiến Dũng
+- **Giảng viên:** TS. Mai Tiến Dũng
 # GIỚI THIỆU NHÓM
 | STT | Họ tên | MSSV | Vai trò | Email | Github |
 | :---: | :---: | :---: | :---: | :---: | :---: |
